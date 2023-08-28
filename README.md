@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mywebsahil.vercel.app/](https://mywebsahil.vercel.app/)
 
-- 📫 How to reach me **🌱 I’m currently learning**
+- 📫 How to reach me **🌱 I’m currently working**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1GTjnY1IqwtbUpHpMI3SlZtcLcAxVV9Iz/view?usp=sharing](https://drive.google.com/file/d/1GTjnY1IqwtbUpHpMI3SlZtcLcAxVV9Iz/view?usp=sharing)
 
